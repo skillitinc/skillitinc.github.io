@@ -1,0 +1,8 @@
+# Site navigation links
+
+- title: Recipes
+  url: /
+- title: Tags
+  url: /tags/
+- title: Search
+  url: /search/
