@@ -111,6 +111,9 @@ author:
     - title: Youtube
       url: https://www.youtube.com/channel/UCW8Y9d-Qu-k4YohPVI0jGwA
       icon: fab fa-youtube
+    - title: Reddit
+      url: https://www.reddit.com/user/skillitrecipes
+      icon: fab fa-reddit
 
 # Footer Links
 footer_links:
@@ -129,3 +132,6 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+  - title: Reddit
+    url: https://www.reddit.com/user/skillitrecipes
+    icon: fab fa-reddit
