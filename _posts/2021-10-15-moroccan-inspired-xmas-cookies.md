@@ -12,7 +12,7 @@ tag:
   - spice
 ---
 
-{% include responsive-embed url="https://www.youtube.com/watch?v=Z11qp_U-qnY" %}
+{% include responsive-embed url="https://www.youtube-nocookie.com/embed/Z11qp_U-qnY?controls=0&" %}
 
 This is a recipe I put together myself, to give Xmas a Moroccan touch. These cookies are spicy, and very tasty to be enjoyed with tea or coffee.
 
