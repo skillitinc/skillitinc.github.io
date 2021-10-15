@@ -105,9 +105,9 @@ author:
     - title: Instagram
       url: https://instagram.com/skill_it_recipes
       icon: fab fa-instagram
-    - title: GitHub
-      url: https://github.com/skillitinc
-      icon: fab fa-github-square
+#    - title: GitHub
+#      url: https://github.com/skillitinc
+#      icon: fab fa-github-square
     - title: Youtube
       url: https://www.youtube.com/channel/UCW8Y9d-Qu-k4YohPVI0jGwA
       icon: fab fa-youtube
@@ -123,9 +123,9 @@ footer_links:
   - title: Instagram
     url: https://instagram.com/skill_it_recipes
     icon: fab fa-instagram
-  - title: GitHub
-    url: https://github.com/skillitinc
-    icon: fab fa-github-square
+#  - title: GitHub
+#    url: https://github.com/skillitinc
+#    icon: fab fa-github-square
   - title: Youtube
     url: https://www.youtube.com/channel/UCW8Y9d-Qu-k4YohPVI0jGwA
     icon: fab fa-youtube
