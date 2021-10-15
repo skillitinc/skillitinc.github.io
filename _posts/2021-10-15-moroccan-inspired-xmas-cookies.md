@@ -3,7 +3,7 @@ title: "Moroccan Inspired Xmas Cookies"
 image:
   path: /images/morrocan-inspired-xmas-cooies.JPG
   thumbnail: /images/morrocan-inspired-xmas-cooies.JPG
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  caption: "Skill-it: Moroccan inspired Xmas cookies"
 excerpt: "Moroccan inspired Xmas cookies. Spicy, nutty and fluffy. To be enjoyed with tea or coffee."
 tag:
   - baking
